@@ -7,7 +7,9 @@
 ---
 ### :woman_technologist: About Me :
 An amateur coder always trying to improve!
+
 🌱 Currently a Year 10 Student at UCC
+
 🔭 Practice makes perfect!
 
 ---
