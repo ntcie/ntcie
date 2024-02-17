@@ -37,6 +37,7 @@ An amateur coder always trying to improve!
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ntcie)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntcie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
