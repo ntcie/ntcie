@@ -2,7 +2,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVlZGRqeGNmb2dpNmRxYjA3NWwzNXRzM2NxaTE3YnhxaWNmbmptcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6BHbKbBorP68tvJQlY/giphy.gif" width="100"/>
 </div>
 
-### Hi, I'm Noah!
+### :wave: Hi, I'm Noah!
 
 ---
 ### :woman_technologist: About Me :
@@ -31,6 +31,7 @@ An amateur coder always trying to improve!
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"width="40" height="40" />
           
 </div>
+
 ---
 
 ### :fire: My Stats :
