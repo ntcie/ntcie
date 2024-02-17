@@ -12,6 +12,8 @@ An amateur coder always trying to improve!
 
 🔭 Practice makes perfect!
 
+⚡ I do some competitive programming 
+
 [![DMOJ Badge](http://mosesxu.ca/judge-badge/dmoj/ntc)](https://www.dmoj.ca/user/ntc)
 ---
 
