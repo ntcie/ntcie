@@ -12,6 +12,7 @@ An amateur coder always trying to improve!
 
 🔭 Practice makes perfect!
 
+[![DMOJ Badge](http://mosesxu.ca/judge-badge/dmoj/ntc)](https://www.dmoj.ca/user/ntc)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
