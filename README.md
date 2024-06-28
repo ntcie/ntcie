@@ -15,6 +15,7 @@ An amateur coder always trying to improve!
 ⚡ I do some competitive programming for fun!
 
 [![DMOJ Badge](http://mosesxu.ca/judge-badge/dmoj/ntc)](https://www.dmoj.ca/user/ntc)
+[![leetcode](https://cp-logo.vercel.app/leetcode/ntcie?logo=true)](https://leetcode.com/ntcie/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
